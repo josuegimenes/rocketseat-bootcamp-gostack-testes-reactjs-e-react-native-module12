@@ -33,3 +33,12 @@ Usado para adicionar configurações a mais na parte do Babel, Webpack e Jest (b
 ```
 yarn add react-app-rewired -D
 ```
+
+### 4º Passo: Instalar @testing-library/react @testing-library/jest-dom
+
+@testing-library/react – Biblioteca específica para testar componentes no React.
+@testing-library/jest-dom – Biblioteca com mais poder de teste onde é possível fazer testes em tags do html.
+
+```
+yarn add @testing-library/react @testing-library/jest-dom -D
+```
