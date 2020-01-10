@@ -42,3 +42,11 @@ yarn add react-app-rewired -D
 ```
 yarn add @testing-library/react @testing-library/jest-dom -D
 ```
+
+### 5º Passo: Instalar @types/jest.
+
+Inteligência de preenchimento automático de arquivos de testes.
+
+```
+yarn add @types/jest -D
+```
