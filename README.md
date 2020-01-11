@@ -76,3 +76,9 @@ yarn add immer
 ```
 yarn add redux-saga
 ```
+
+### 10º Passo: Instalar Axios.
+
+```
+yarn add axios
+```
