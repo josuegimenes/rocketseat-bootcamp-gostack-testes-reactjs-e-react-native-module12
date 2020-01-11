@@ -82,3 +82,11 @@ yarn add redux-saga
 ```
 yarn add axios
 ```
+
+### 11º Passo: Instalar Axios Mock Adapter.
+
+Usado para simular o retorno de uma URL.
+
+```
+yarn add axios-mock-adapter -D
+```
