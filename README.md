@@ -64,3 +64,9 @@ yarn add jest-localstorage-mock -D
 ```
 yarn add redux react-redux
 ```
+
+### 8º Passo: Instalar Immer.
+
+```
+yarn add immer
+```
