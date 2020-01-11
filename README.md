@@ -70,3 +70,9 @@ yarn add redux react-redux
 ```
 yarn add immer
 ```
+
+### 9º Passo: Instalar Redux Saga.
+
+```
+yarn add redux-saga
+```
