@@ -50,3 +50,11 @@ Inteligência de preenchimento automático de arquivos de testes.
 ```
 yarn add @types/jest -D
 ```
+
+### 6º Passo: Instalar Jest LocalStorage Mock.
+
+Usado para simular funcionalidade de forma fictícia do LocalStorage.
+
+```
+yarn add jest-localstorage-mock -D
+```
