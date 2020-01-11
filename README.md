@@ -58,3 +58,9 @@ Usado para simular funcionalidade de forma fictícia do LocalStorage.
 ```
 yarn add jest-localstorage-mock -D
 ```
+
+### 7º Passo: Instalar Redux e React Redux.
+
+```
+yarn add redux react-redux
+```
